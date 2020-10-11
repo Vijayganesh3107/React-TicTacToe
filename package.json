@@ -1,0 +1,19 @@
+{
+  "name": "react-tic-tac-toe-hooks-master",
+  "version": "1.0.0",
+  "description": "React Tic Tac Toe Game using Functional Components and Hooks",
+  "main": "index.html",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
